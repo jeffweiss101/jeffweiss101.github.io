@@ -1,10 +1,29 @@
 
-  /* why won't this save???*/
+
 
 body{
-	background-color: #3BB9FF;
+	background-color: #FFFAF0;
 	color: #FF7F3B;
 	font-family: 'Helvetica';
+    
+	
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }	
+		
+	
+}
+ 
+
+ h1{
+  
+   	color: #653040 	
 
 }
+ 
+ul {
+   
+      list-style-type: none;
 
+  }
