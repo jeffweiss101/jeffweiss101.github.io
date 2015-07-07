@@ -16,6 +16,10 @@ img.displayed {
  
 h1 {
    	color: #653040;
+   	text-align: center;
+h2 {
+	text-align: center;
+}
 }
  
 ul {
